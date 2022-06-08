@@ -6,6 +6,6 @@ The method should return true if there is a digit that appears in both numbers, 
  */
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println(SharedDigit.hasSharedDigit(44,23));
     }
 }
